@@ -1,4 +1,4 @@
-/* Author: Yael Farber ID: 326770468
+/* Author: Yael Farber 
 Course: Advanced Programming
 Exercise 9 Question 1
 Program doc: managing classes of  private , commander and officer soldiers and the medals they get.
