@@ -1,4 +1,4 @@
-// Author: Yael Farber ID: 326770468
+// Author: Yael Farber
 // Course: Advanced Programming
 // First Middle Exam
 
