@@ -1,4 +1,4 @@
-/* Author: Yael Farber ID: 326770468
+/* Author: Yael Farber 
 Course: Advanced Programming
 Exercise 10 Question 1+2+3
 Program doc: implemnting a BST tree, with options to:

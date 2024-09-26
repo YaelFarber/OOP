@@ -1,4 +1,4 @@
-/* Author: Yael Farber ID: 326770468
+/* Author: Yael Farber 
 Course: Advanced Programming
 Targil 5 Sheela 1
 Program doc: creating a class that manage ATM, with the options to create account, deposite or withdraw nis */

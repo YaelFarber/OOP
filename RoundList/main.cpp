@@ -1,4 +1,4 @@
-/* Author: Yael Farber ID: 326770468
+/* Author: Yael Farber 
 Course: Advanced Programming
 Targil 6 Sheela 1
 Program doc: creating a class that manage Round List - the last link points to the first link.

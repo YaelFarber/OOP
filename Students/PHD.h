@@ -1,4 +1,4 @@
-/* Author: Yael Farber ID: 326770468
+/* Author: Yael Farber
 Course: Advanced Programming
 Exercise 8 Question 1
 Program doc: managing classes of  BA , MA and PHD  students.
